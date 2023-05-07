@@ -1,0 +1,44 @@
+.modal-header{
+    padding: 5px 15px;
+    background-color: greenyellow;
+}
+.modal-title{
+    font-weight: bold;
+}
+.modal-footer{
+    padding: 5px 15px;
+}
+.add-cat-btn-save{
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+input[type=file]{
+    margin-top: 10px;
+}
+.category-btns-container{
+    display: flex;
+    align-items: center;
+}
+.category-btns-container > button{
+    margin: 0 5px;
+}
+.btn1{
+    background-color: lightslategray;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+.btn2{
+    background-color: lightslategray;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+.btn3{
+    background-color: lightslategray;
+    color: white;
+    border: none;
+    padding: 10px;
+}
